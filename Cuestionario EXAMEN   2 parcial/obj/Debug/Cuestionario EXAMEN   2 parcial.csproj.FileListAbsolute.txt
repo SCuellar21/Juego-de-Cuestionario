@@ -1,0 +1,9 @@
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\bin\Debug\Cuestionario EXAMEN   2 parcial.exe.config
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\bin\Debug\Cuestionario EXAMEN   2 parcial.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\bin\Debug\Cuestionario EXAMEN   2 parcial.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\obj\Debug\Cuestionario EXAMEN   2 parcial.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\obj\Debug\Cuestionario_EXAMEN___2_parcial.Form1.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\obj\Debug\Cuestionario_EXAMEN___2_parcial.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\obj\Debug\Cuestionario EXAMEN   2 parcial.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\obj\Debug\Cuestionario EXAMEN   2 parcial.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\Cuestionario EXAMEN   2 parcial\Cuestionario EXAMEN   2 parcial\obj\Debug\Cuestionario EXAMEN   2 parcial.pdb
